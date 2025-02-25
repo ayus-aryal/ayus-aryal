@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayusaryal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayusaryal18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayusharyal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayusharyal18" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aayush-aryal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aayush-aryal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aayusharyal18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayusharyal18/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16893170/aayush-aryal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16893170/aayush-aryal" height="30" width="40" /></a>
 <a href="https://instagram.com/ayus.aryal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayus.aryal18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayusaryal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayusaryal18" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/ayusaryal18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayusaryal18/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
