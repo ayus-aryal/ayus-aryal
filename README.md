@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Aryal</h1>
-<h3 align="center">A passionate Android Developer from Nepal 🇳🇵.</h3>
+<h3 align="center">A passionate Android Developer from Nepal &#127475;&#127477; .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayus-aryal&label=Profile%20views&color=0e75b6&style=flat" alt="ayus-aryal" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayusaryal18" target="blank"><img src="https://img.shields.io/twitter/follow/ayusaryal18?logo=twitter&style=for-the-badge" alt="ayusaryal18" /></a> </p>
 
-- 🔭 I’m currently working on [SafeLugg, Join The Cause](https://github.com/ayus-aryal/SafeLugg, https://github.com/ayus-aryal/Join-The-Cause)
+- 🔭 I’m currently working on [SafeLugg](https://github.com/ayus-aryal/SafeLugg)
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, Android Development**
 
