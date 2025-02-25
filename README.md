@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Aryal</h1>
-<h3 align="center">A passionate Android Developer from Nepal.</h3>
+<h3 align="center">A passionate Android Developer from Nepal🇳🇵.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayus-aryal&label=Profile%20views&color=0e75b6&style=flat" alt="ayus-aryal" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayusaryal18" target="blank"><img src="https://img.shields.io/twitter/follow/ayusaryal18?logo=twitter&style=for-the-badge" alt="ayusaryal18" /></a> </p>
 
-- 🔭 I’m currently working on [SafeLugg](https://github.com/ayus-aryal/SafeLugg)
+- 🔭 I’m currently working on [SafeLugg, Join The Cause](https://github.com/ayus-aryal/SafeLugg, https://github.com/ayus-aryal/Join-The-Cause)
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, Android Development**
 
@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayusaryal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayusaryal18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aayusharyal18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayusharyal18/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16893170/aayush-aryal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16893170/aayush-aryal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aayusharyal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayusharyal18" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16893170/aayush-aryal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16893170/aayush-aryal" height="30" width="40" /></a>
 <a href="https://instagram.com/ayus.aryal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayus.aryal18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ayusaryal18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayusaryal18/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/ayusaryal18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/ayusaryal18/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
