@@ -37,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayus-aryal&show_icons=true&locale=en" alt="ayus-aryal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayus-aryal&" alt="ayus-aryal" /></p>
-
